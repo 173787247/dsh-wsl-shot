@@ -1,6 +1,4 @@
-# 
-
-DeepSeek Harness 工具：**${tool}** — 
+# dsh-wsl-shot
 
 DeepSeek Harness 工具：**`win_shot`** — 将 Windows 剪贴板图片保存为 WSL PNG，供多模态使用。
 
@@ -28,8 +26,8 @@ dsh plugin --profile web add github:173787247/dsh-wsl-shot
 - id: dsh-wsl-shot
   name: dsh-wsl-shot
   config:
-        timeoutMs: 15000
-        dir: /tmp/dsh-wsl-shot
+    timeoutMs: 15000
+    dir: /tmp/dsh-wsl-shot
 ```
 
 | 键 | 默认 | 含义 |

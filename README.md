@@ -1,8 +1,6 @@
-# 
+# dsh-wsl-shot
 
-DeepSeek Harness tool: **${tool}** — 
-
-DeepSeek Harness tool: **`win_shot`** — DeepSeek Harness tool: save a Windows clipboard image to a WSL PNG for multimodal use.
+DeepSeek Harness tool: **`win_shot`** — save a Windows clipboard image to a WSL PNG for multimodal use.
 
 Part of **[dsh-wsl-kit](https://github.com/173787247/dsh-wsl-kit)**.
 
@@ -28,8 +26,8 @@ Restart `dsh web`. New session → Tools should list `win_shot`.
 - id: dsh-wsl-shot
   name: dsh-wsl-shot
   config:
-        timeoutMs: 15000
-        dir: /tmp/dsh-wsl-shot
+    timeoutMs: 15000
+    dir: /tmp/dsh-wsl-shot
 ```
 
 | Key | Default | Meaning |
