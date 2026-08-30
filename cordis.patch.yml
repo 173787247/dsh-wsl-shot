@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-wsl-shot
+      name: dsh-wsl-shot
+      config:
+        timeoutMs: 15000
+        dir: /tmp/dsh-wsl-shot
