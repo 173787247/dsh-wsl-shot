@@ -1,4 +1,6 @@
-# dsh-wsl-shot
+# 
+
+DeepSeek Harness tool: **${tool}** — 
 
 DeepSeek Harness tool: **`win_shot`** — DeepSeek Harness tool: save a Windows clipboard image to a WSL PNG for multimodal use.
 

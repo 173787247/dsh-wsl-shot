@@ -1,4 +1,6 @@
-# dsh-wsl-shot
+# 
+
+DeepSeek Harness 工具：**${tool}** — 
 
 DeepSeek Harness 工具：**`win_shot`** — 将 Windows 剪贴板图片保存为 WSL PNG，供多模态使用。
 
