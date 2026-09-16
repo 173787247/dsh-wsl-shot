@@ -8,6 +8,18 @@ Part of **[dsh-wsl-kit](https://github.com/173787247/dsh-wsl-kit)**.
 
 [中文说明 → README.zh.md](./README.zh.md)
 
+## Where it sits
+
+Saves a Windows clipboard image into a WSL file so the agent can attach it.
+
+```mermaid
+flowchart LR
+  clip["Windows clipboard image"] --> tool["win_shot"] --> file["WSL image file"]
+```
+
+Suite diagram and version snapshot: [dsh-wsl-kit](https://github.com/173787247/dsh-wsl-kit#how-the-pieces-fit). This plugin is **0.1.0** (full). Do not copy that matrix into this README.
+
+
 ## Compatibility
 
 | Field | Value |

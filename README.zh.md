@@ -8,6 +8,18 @@ DeepSeek Harness 插件：把 Windows 剪贴板图片保存为 WSL 文件，供�
 
 [English → README.md](./README.md)
 
+## 在套件里的位置
+
+把 Windows 剪贴板里的图片存成 WSL 文件，供 agent 当附件。
+
+```mermaid
+flowchart LR
+  clip["Windows 剪贴板图片"] --> tool["win_shot"] --> file["WSL 图片文件"]
+```
+
+整套关系图和版本快照：[dsh-wsl-kit 中文说明](https://github.com/173787247/dsh-wsl-kit/blob/master/README.zh.md)。本插件是 **0.1.0**（full）。不要把那份总表抄进本 README。
+
+
 ## 兼容性
 
 | 项 | 值 |
