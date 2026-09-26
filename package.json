@@ -1,6 +1,6 @@
 {
   "name": "dsh-wsl-shot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Save a Windows clipboard image into a WSL file for multimodal chat.",
   "license": "MIT",
   "repository": {
