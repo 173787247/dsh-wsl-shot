@@ -24,7 +24,7 @@ Suite diagram and version snapshot: [dsh-wsl-kit](https://github.com/173787247/d
 
 | Field | Value |
 |-------|-------|
-| **Plugin** | `dsh-wsl-shot` **0.1.0** |
+| **Plugin** | `dsh-wsl-shot` **0.1.1** |
 | **Minimum dsh** | ≥ **0.1.2** (web UI one-shot `?token=` on Windows relay `:3081`) |
 | **Latest verified** | See [dsh-wsl-kit Compatibility](https://github.com/173787247/dsh-wsl-kit#compatibility-2026-09) (currently **`0.2.0-rc.2`**) — single source of truth for the suite |
 | **Kit set** | `full` or install alone |
